@@ -4,4 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="boton">#00A8E8</color>
     <color name="edit_text">#D9D9D9</color>
+    <color name="grey">#BFC0C0</color>
+    <color name="transparent">#00D9D9D9</color>
 </resources>
