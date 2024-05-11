@@ -22,4 +22,9 @@
         android:icon="@drawable/ic_profile_img"
         android:title="@string/title_profile" />
 
+    <item
+        android:id="@+id/navigation_promotions"
+        android:icon="@drawable/ic_promotions_img"
+        android:title="Promociones"/>
+
 </menu>
