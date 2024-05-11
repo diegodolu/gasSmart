@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.miempresa.gasapp-mergeDebugResources-32:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DIEGO\\.gradle\\caches\\transforms-3\\bc9499aca01143d1ea45db0ed04701ac\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

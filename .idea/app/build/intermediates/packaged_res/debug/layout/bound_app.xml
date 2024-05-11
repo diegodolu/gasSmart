@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BoundActivity">
+
+    <ImageView
+        android:id="@+id/lbl_bound_logo"
+        android:layout_width="110dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo02" />
+
+    <TextView
+        android:id="@+id/lbl_bound_titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="136dp"
+        android:fontFamily="@font/quicksand_regular"
+        android:text="Agregar Sensor"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/lbl_bound_subtitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/quicksand_regular"
+        android:text="Código"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lbl_bound_titulo" />
+
+    <EditText
+        android:id="@+id/ipt_bound_codigo"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edit_especial"
+        android:padding="10dp"
+        app:layout_constraintStart_toStartOf="@+id/lbl_bound_subtitulo"
+        app:layout_constraintTop_toBottomOf="@+id/lbl_bound_subtitulo" />
+
+    <ImageView
+        android:id="@+id/img_bound_check"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="244dp"
+        app:layout_constraintStart_toEndOf="@+id/ipt_bound_codigo"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/check" />
+
+    <ImageView
+        android:id="@+id/img_bound_ss"
+        android:layout_width="36dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/logo01" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

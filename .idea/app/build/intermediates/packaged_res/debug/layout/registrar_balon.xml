@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegistersensorActivity">
+
+    <ImageView
+        android:id="@+id/img_detailssensor_logo"
+        android:layout_width="110dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/lbl_detailssensor_titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="158dp"
+        android:fontFamily="@font/quicksand_regular"
+        android:text="Registrar Balón"
+        android:textSize="26sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/lbl_marca"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/quicksand_regular"
+        android:text="Marca"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lbl_detailssensor_titulo" />
+
+    <Spinner
+        android:id="@+id/spn_marca"
+        android:entries="@array/marcas_disponibles"
+        style="@style/AppSpinnerStyle"
+        android:layout_width="150dp"
+        android:layout_marginStart="80dp"
+        android:layout_height="23dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/spinner_background"
+        app:layout_constraintHorizontal_bias="0.755"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lbl_marca"/>
+
+    <TextView
+        android:id="@+id/lbl_tipo_valvula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="35dp"
+        android:fontFamily="@font/quicksand_regular"
+        android:text="Peso"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spn_marca" />
+
+    <Spinner
+        android:id="@+id/spn_peso"
+        android:entries="@array/pesos_disponibles"
+        style="@style/AppSpinnerStyle"
+        android:layout_width="150dp"
+        android:layout_marginStart="80dp"
+        android:layout_height="23dp"
+        android:layout_marginTop="15dp"
+        android:textAppearance="@style/CustomSpinnerTextStyle"
+        android:background="@drawable/spinner_background"
+        app:layout_constraintHorizontal_bias="0.755"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lbl_tipo_valvula" />
+
+    <TextView
+        android:id="@+id/lbl_peso"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="35dp"
+        android:fontFamily="@font/quicksand_regular"
+        android:text="Tipo de válvula"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spn_peso" />
+
+    <Spinner
+        android:id="@+id/spn_tipo_valvula"
+        android:entries="@array/tipos_valvula_disponibles"
+        style="@style/AppSpinnerStyle"
+        android:layout_width="150dp"
+        android:layout_marginStart="80dp"
+        android:layout_height="23dp"
+        android:layout_marginTop="15dp"
+        android:textAppearance="@style/CustomSpinnerTextStyle"
+        android:background="@drawable/spinner_background"
+        app:layout_constraintHorizontal_bias="0.755"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lbl_peso" />
+
+    <ImageView
+        android:id="@+id/img_detailssensor_ss"
+        android:layout_width="36dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/ss" />
+
+    <Spinner
+        android:id="@+id/spn_detailssensor_redes"
+        style="@style/AppSpinnerStyle"
+        android:layout_width="80dp"
+        android:layout_height="23dp"
+        android:layout_marginTop="116dp"
+        android:entries="@array/redes_disponibles"
+        android:textAppearance="@style/CustomSpinnerTextStyle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.755"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_registra_balon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/boton_especial"
+        android:fontFamily="@font/quicksand_regular"
+        android:text="Registrar"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spn_tipo_valvula" />
+
+    <ImageView
+        android:id="@+id/img_marca"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_marginStart="-25dp"
+        app:layout_constraintBottom_toBottomOf="@+id/spn_marca"
+        app:layout_constraintStart_toEndOf="@+id/spn_marca"
+        app:layout_constraintTop_toTopOf="@+id/spn_marca"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/desplegable" />
+
+    <ImageView
+        android:id="@+id/img_valvula"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_marginStart="-25dp"
+        app:layout_constraintStart_toEndOf="@+id/spn_tipo_valvula"
+        app:layout_constraintTop_toTopOf="@+id/spn_tipo_valvula"
+        app:layout_constraintBottom_toBottomOf="@+id/spn_tipo_valvula"
+        app:srcCompat="@drawable/desplegable" />
+
+    <ImageView
+        android:id="@+id/img_peso"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_marginStart="-25dp"
+        app:layout_constraintStart_toEndOf="@+id/spn_peso"
+        app:layout_constraintTop_toTopOf="@+id/spn_peso"
+        app:layout_constraintBottom_toBottomOf="@+id/spn_peso"
+        app:srcCompat="@drawable/desplegable" />
+
+    <ImageView
+        android:id="@+id/img_detailssensor_wifi"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="116dp"
+        android:layout_marginEnd="72dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/wifi_celeste" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

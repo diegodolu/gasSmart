@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_boton_especial.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/boton_especial.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_flecha.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/flecha.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_ic_store_black_24dp.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/ic_store_black_24dp.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/xml_backup_rules.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_wifi_celeste.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/wifi_celeste.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_fragment_store.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/fragment_store.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_ss.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/ss.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_wifi_background.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/wifi_background.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_flecha02.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/flecha02.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/font_quicksand_medium.ttf.flat",
+        "source": "com.miempresa.gasapp-main-50:/font/quicksand_medium.ttf"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_logo02.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/logo02.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_wifi01.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/wifi01.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_logo.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/logo.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/navigation_mobile_navigation.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/menu_menu_wifi.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/menu/menu_wifi.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_fragment_profile.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_check.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/check.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_boton_calibrar.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/boton_calibrar.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_redssensor_app.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/redssensor_app.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/xml_data_extraction_rules.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_desplegable.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/desplegable.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_balon.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/balon.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_activity_register_tank.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/activity_register_tank.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_ic_bell_img.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/ic_bell_img.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_selected_dot.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/selected_dot.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_auth_background.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/auth_background.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_ic_store_icon.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/ic_store_icon.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_fragment_home.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_ic_home_img.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/ic_home_img.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_wifi02.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/wifi02.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/font_quicksand_semibold.ttf.flat",
+        "source": "com.miempresa.gasapp-main-50:/font/quicksand_semibold.ttf"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_button_background.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_auth_form_background.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/auth_form_background.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_spinner_background.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_activity_main.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_register_user.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/register_user.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_login_user.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/login_user.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_tab_pager_selector.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/tab_pager_selector.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/font_quicksand_regular.ttf.flat",
+        "source": "com.miempresa.gasapp-main-50:/font/quicksand_regular.ttf"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_fragment_home_slide_item.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/fragment_home_slide_item.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_fragment_notifications.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_redsensor_app.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/redsensor_app.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_activity_sensor_wifi.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/activity_sensor_wifi.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_input_background.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/input_background.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_wifi03.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/wifi03.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_default_dot.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/default_dot.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_dialog_register_sensor.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/dialog_register_sensor.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_mas.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/mas.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/raw_datos_prototipo.txt.flat",
+        "source": "com.miempresa.gasapp-main-50:/raw/datos_prototipo.txt"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/layout_home_app.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/layout/home_app.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_agregar.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/agregar.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/font_quicksand_bold.ttf.flat",
+        "source": "com.miempresa.gasapp-main-50:/font/quicksand_bold.ttf"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_wifi_gris.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/wifi_gris.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_arrow.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/arrow.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_ic_profile_img.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/ic_profile_img.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/font_quicksand_light.ttf.flat",
+        "source": "com.miempresa.gasapp-main-50:/font/quicksand_light.ttf"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_logo03.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/logo03.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_edit_especial.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/edit_especial.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_ic_wifi_outline_icon_24dp.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/ic_wifi_outline_icon_24dp.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_ic_gas_img.xml.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/ic_gas_img.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_flecha01.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/flecha01.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_logo01.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/logo01.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/drawable_wifi_azul.png.flat",
+        "source": "com.miempresa.gasapp-main-50:/drawable/wifi_azul.png"
+    },
+    {
+        "merged": "com.miempresa.gasapp-debug-48:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.miempresa.gasapp-main-50:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\font_quicksand_bold.ttf.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\font\\quicksand_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\font_quicksand_light.ttf.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\font\\quicksand_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_fragment_1.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_desplegable.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\desplegable.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_wifi_gris.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\wifi_gris.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\raw_datos_prototipo.txt.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\raw\\datos_prototipo.txt"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_wifi_azul.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\wifi_azul.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_logo01.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\logo01.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_activity_home_new.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\activity_home_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_login_app.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\login_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_boton_especial.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\boton_especial.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_wifi02.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\wifi02.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_redssensor_app.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\redssensor_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_wifi03.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\wifi03.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_candado.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\candado.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_redsensor_app.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\redsensor_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_home_app.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\home_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_boton_calibrar.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\boton_calibrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_registrar_balon.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\registrar_balon.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_detailssensor_app.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\detailssensor_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_fragment_codigo_sensor.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\fragment_codigo_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_addsensor_app.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\addsensor_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\font_quicksand_medium.ttf.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\font\\quicksand_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_wifi01.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\wifi01.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_fragment_ayuda.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\fragment_ayuda.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_ss.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\ss.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_balones.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\balones.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_edit_especial.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\edit_especial.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_flecha.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\flecha.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_question.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\question.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-merged_res-34:/layout_addsensor_app.xml.flat",
+        "source": "com.miempresa.gasapp-main-36:/layout/addsensor_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_flecha01.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\flecha01.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\font_quicksand_semibold.ttf.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\font\\quicksand_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_balon.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\balon.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_logo02.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\logo02.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\menu_menu_wifi.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\menu\\menu_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_check.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_activity_balones.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\activity_balones.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_register_app.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\register_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_mas.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\mas.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_fragment_red.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\fragment_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_flecha02.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\flecha02.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_wifi_celeste.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\wifi_celeste.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\layout_bound_app.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\layout\\bound_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\font_quicksand_regular.ttf.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\font\\quicksand_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_agregar.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\agregar.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_numbers.png.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\numbers.png"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DIEGO\\.gradle\\daemon\\8.4\\com.miempresa.gasapp-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]

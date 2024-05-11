@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/activity_register_tank.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/activity_register_tank.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/fragment_store.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/fragment_store.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/home_app.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/home_app.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/fragment_notifications.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/dialog_register_sensor.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/dialog_register_sensor.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/fragment_profile.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/fragment_home_slide_item.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/fragment_home_slide_item.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/fragment_home.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/activity_sensor_wifi.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/activity_sensor_wifi.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/login_user.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/login_user.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/redssensor_app.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/redssensor_app.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/redsensor_app.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/redsensor_app.xml"
+    },
+    {
+        "merged": "com.miempresa.gasapp-mergeDebugResources-47:/layout/register_user.xml",
+        "source": "com.miempresa.gasapp-main-50:/layout/register_user.xml"
+    }
+]
