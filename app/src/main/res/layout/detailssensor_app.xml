@@ -8,10 +8,12 @@
 
     <ImageView
         android:id="@+id/img_detailssensor_logo"
-        android:layout_width="110dp"
+        android:layout_width="0dp"
         android:layout_height="43dp"
         android:layout_marginStart="32dp"
         android:layout_marginTop="32dp"
+        android:layout_marginEnd="31dp"
+        app:layout_constraintEnd_toEndOf="@+id/img_detailssensor_balon"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/logo02" />
@@ -20,24 +22,22 @@
         android:id="@+id/lbl_detailssensor_titulo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="64dp"
-        android:layout_marginTop="164dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="33dp"
         android:fontFamily="@font/quicksand_regular"
         android:text="Sensor"
         android:textSize="24sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/lbl_detailssensor_nombre"
+        app:layout_constraintEnd_toEndOf="@+id/img_detailssensor_balon"
+        app:layout_constraintStart_toStartOf="@+id/img_detailssensor_logo" />
 
     <ImageView
         android:id="@+id/img_detailssensor_ss"
         android:layout_width="36dp"
         android:layout_height="68dp"
-        android:layout_marginStart="32dp"
-        android:layout_marginEnd="32dp"
         android:layout_marginBottom="40dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/logo01" />
 
@@ -46,26 +46,27 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="12dp"
-        android:layout_marginTop="164dp"
+        android:layout_marginTop="25dp"
         android:fontFamily="@font/quicksand_bold"
         android:text="AQ58"
         android:textColor="@color/black"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintStart_toEndOf="@+id/lbl_detailssensor_titulo"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/spn_detailssensor_redes" />
 
     <Spinner
         android:id="@+id/spn_detailssensor_redes"
         style="@style/AppSpinnerStyle"
         android:layout_width="80dp"
         android:layout_height="23dp"
+        android:layout_marginStart="37dp"
         android:layout_marginTop="116dp"
+        android:layout_marginBottom="117dp"
         android:entries="@array/redes_disponibles"
         android:textAppearance="@style/CustomSpinnerTextStyle"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.755"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/lbl_detailssensor_subtitulo"
+        app:layout_constraintStart_toEndOf="@+id/lbl_detailssensor_nombre"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
@@ -77,31 +78,31 @@
         android:fontFamily="@font/quicksand_regular"
         android:text="Nivel de gas"
         android:textSize="18sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/img_detailssensor_balon"
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/img_detailssensor_wifi"
         android:layout_width="22dp"
-        android:layout_height="22dp"
-        android:layout_marginTop="116dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="71dp"
         android:layout_marginEnd="68dp"
+        app:layout_constraintBottom_toBottomOf="@+id/spn_detailssensor_redes"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/spn_detailssensor_redes"
+        app:layout_constraintTop_toTopOf="@+id/spn_detailssensor_redes"
         app:srcCompat="@drawable/wifi_celeste" />
 
     <TextView
         android:id="@+id/lbl_detailssensor_porcentaje"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="48dp"
+        android:layout_marginStart="12dp"
         android:layout_marginTop="12dp"
         android:fontFamily="@font/quicksand_bold"
         android:text="20%"
         android:textSize="36sp"
-        app:layout_constraintStart_toEndOf="@+id/img_detailssensor_balon"
+        app:layout_constraintStart_toStartOf="@+id/lbl_detailssensor_subtitulo"
         app:layout_constraintTop_toBottomOf="@+id/lbl_detailssensor_subtitulo" />
 
     <TextView
@@ -109,22 +110,41 @@
         android:layout_width="230dp"
         android:layout_height="73dp"
         android:layout_marginStart="80dp"
-        android:layout_marginTop="64dp"
+        android:layout_marginTop="65dp"
         android:fontFamily="@font/quicksand_semibold"
         android:text="Según tu consumo, aproximadamente te quedan 6 días de uso."
         android:textAlignment="center"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/img_detailssensor_balon" />
+        app:layout_constraintTop_toBottomOf="@+id/lbl_detailssensor_porcentaje" />
 
     <ImageView
         android:id="@+id/img_detailssensor_balon"
         android:layout_width="85dp"
         android:layout_height="86dp"
-        android:layout_marginStart="88dp"
+        android:layout_marginStart="8dp"
         android:layout_marginTop="64dp"
-        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginBottom="64dp"
+        app:layout_constraintBottom_toTopOf="@+id/lbl_detailssensor_descripcion"
+        app:layout_constraintStart_toStartOf="@+id/lbl_detailssensor_descripcion"
         app:layout_constraintTop_toBottomOf="@+id/lbl_detailssensor_titulo"
         app:srcCompat="@drawable/balon" />
+
+    <!-- este es el boton de pedido de gas que te lleva al mapa de google-->
+    <Button
+        android:id="@+id/btn_order_gas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="37dp"
+        android:background="@drawable/boton_especial"
+        android:fontFamily="@font/quicksand_regular"
+        android:text="Pedir gas"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lbl_detailssensor_descripcion" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
